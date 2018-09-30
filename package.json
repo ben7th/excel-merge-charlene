@@ -1,0 +1,25 @@
+{
+  "name": "excel-merge-charlene",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben7th/excel-merge-charlene.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben7th/excel-merge-charlene/issues"
+  },
+  "homepage": "https://github.com/ben7th/excel-merge-charlene#readme",
+  "dependencies": {
+    "args": "^5.0.0",
+    "js-yaml": "^3.12.0",
+    "moment": "^2.22.2",
+    "xlsx": "^0.14.0"
+  }
+}
